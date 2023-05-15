@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Kargar</h1>
 <h3 align="center">A kiddo who's interested in front-end development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dofxo&label=Profile%20views&color=0e75b6&style=flat" alt="dofxo" /> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
