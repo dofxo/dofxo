@@ -6,6 +6,8 @@
 
 - 👨‍💻 All of my projects are available at [https://dofxo.ir/](https://dofxo.ir/)
 
+- 🎆 latest released library availalble at [https://silverboxjs.ir/](https://silverboxjs.ir/)
+
 - 📫 How to reach me **mohammadkargar01@yahoo.com**
 
 
