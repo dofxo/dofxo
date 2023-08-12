@@ -2,7 +2,7 @@
 <h3 align="center">A kiddo who's interested in front-end development</h3>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://dofxo.ir/](https://dofxo.ir/)
 
