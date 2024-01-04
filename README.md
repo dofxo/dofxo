@@ -2,7 +2,7 @@
 <h3 align="center">A kiddo who's interested in front-end development</h3>
 
 
-- 🌱 I’m currently working in a company as an intern front-end developer.
+- 🌱 I’m currently working in a company as front-end developer.
 
 - 👨‍💻 All of my projects are available at [https://dofxo.ir/](https://dofxo.ir/)
 
