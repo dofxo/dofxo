@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Kargar</h1>
 <h3 align="center">A kiddo who's interested in programming</h3>
 
-🌱 I’m currently working in Webline as front-end developer.<br>👨‍💻 All of my projects are available at https://dofxo.ir/<br>🎆 latest released library availalble at https://silverboxjs.ir/<br>📫 How to reach me mohammadkargar01@yahoo.com<br><br>
+🌱 I’m currently working in Webline as front-end developer.<br>👨‍💻 All of my projects are available at https://dofxo.ir/<br>🎆 latest released library availalble at https://silverboxjs.ir/<br>📫 How to reach me kargat504@gmail.com<br><br>
 
 
 ## 🌐 Socials:
